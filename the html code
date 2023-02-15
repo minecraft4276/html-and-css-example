@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WELCOME TO THE SITE</title>
+    <style>
+      body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+      
+    </style>
+  </head>
+  <body>
+  <f1>Hello, and welcome to the new webview for this template</f1>
+    <br>
+    <f2>this template will show you the simple parts of coding</f2>
+<br>
+    <f3>you can delete the text inside of the elements in order to put you own text in and make a little started to the site.</f3>
+    <br>
+    <a href="https://www.bing.com/videos/search?q=how+to+html&&view=detail&mid=256F05C44FB0FF811776256F05C44FB0FF811776&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dhow%2Bto%2Bhtml%26FORM%3DHDRSC3">please refer to this video for any guidence help if needed</a>
+
+    <h1>Good evening</h1>
+<p>Giday YouTube.</p>
+  </body>
+</html>
